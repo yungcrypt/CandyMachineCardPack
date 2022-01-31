@@ -48,7 +48,7 @@ def goDoIt(assets):
                 data = json.load(f)
                 data['name'] = "{0}".format(name)
                 data['image'] = "{0}.png".format(x)
-
+                data['properties']['files'][0]['uri'] = "{0}.png".format(x)
 
             tempfile = os.path.join(os.path.dirname(filepath),str(uuid.uuid4))
 
