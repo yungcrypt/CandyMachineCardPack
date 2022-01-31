@@ -1,0 +1,39 @@
+{
+    "name": "Duck_Nest",
+    "symbol": "qc",
+    "description": "no place like home",
+    "seller_fee_basis_points": 500,
+    "image": "92.png",
+    "attributes": [
+        {
+            "trait_type": "gid",
+            "value": "2"
+        },
+        {
+            "trait_type": "Uses",
+            "value": "3"
+        },
+        {
+            "trait_type": "StakeUtility",
+            "value": "+10% Hunter Protection"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "N4f6zftYsuu4yT7icsjLwh4i6pB1zvvKbseHj2NmSQw",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "Dapper Ducks",
+        "family": "Quack Cards"
+    }
+}

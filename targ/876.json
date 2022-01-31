@@ -1,0 +1,39 @@
+{
+    "name": "Pond",
+    "symbol": "qc",
+    "description": "Splash!",
+    "seller_fee_basis_points": 500,
+    "image": "876.png",
+    "attributes": [
+        {
+            "trait_type": "gid",
+            "value": "3"
+        },
+        {
+            "trait_type": "Uses",
+            "value": "3"
+        },
+        {
+            "trait_type": "StakeUtility",
+            "value": "+7% Stake Bonus / +7% Hunter protection"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "N4f6zftYsuu4yT7icsjLwh4i6pB1zvvKbseHj2NmSQw",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "Dapper Ducks",
+        "family": "Quack Cards"
+    }
+}
